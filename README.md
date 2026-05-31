@@ -1,4 +1,4 @@
-# Titanic Survival Analysis Dashboard
+# Titanic-Survival-Analysis-Dashboard
 
 ## Project Overview
 This project analyzes Titanic passenger survival data using Tableau Public.
@@ -14,10 +14,11 @@ This project analyzes Titanic passenger survival data using Tableau Public.
 - Tableau Public
 - Data Visualization
 - Data Analysis
-
-## Dashboard Link
-[View Dashboard Here](https://public.tableau.com/views/TitanicSurvivalAnalysisDashboard_17802486769800/TitanicSurvivalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
 
 ## Project Screenshot
+[Titanic Dashboard]
 <img width="1998" height="1598" alt="Titanic Survival Dashboard" src="https://github.com/user-attachments/assets/fe678f26-549f-423c-be7f-cb2ca5fd374f" />
-
+---
+## Dashboard Link
+[View Dashboard Here](https://public.tableau.com/views/TitanicSurvivalAnalysisDashboard_17802486769800/TitanicSurvivalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
