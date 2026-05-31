@@ -17,7 +17,7 @@ This project analyzes Titanic passenger survival data using Tableau Public.
 ---
 
 ## Project Screenshot
-[Titanic Dashboard]
+
 <img width="1998" height="1598" alt="Titanic Survival Dashboard" src="https://github.com/user-attachments/assets/fe678f26-549f-423c-be7f-cb2ca5fd374f" />
 ---
 ## Dashboard Link
